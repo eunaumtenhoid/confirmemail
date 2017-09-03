@@ -1,10 +1,10 @@
-# Confirm e-mail
+# Confirm Email
 
 ## Installation
 
 Copy the extension to phpBB/ext/kinerity/knowledgebase
 
-Go to "ACP" > "Customise" > "Extensions" and enable the "Confirm e-mail" extension.
+Go to "ACP" > "Customise" > "Extensions" and enable the "Confirm Email" extension.
 
 ## License
 
