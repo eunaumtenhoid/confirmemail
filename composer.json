@@ -2,15 +2,15 @@
     "name": "kinerity/confirmemail",
     "type": "phpbb-extension",
     "description": "Adds the 'confirm e-mail address' field to the registration screen.",
-    "homepage": "",
-    "version": "1.0.0-dev",
+    "homepage": "https://www.project-w.org",
+    "version": "1.0.0-RC1",
     "time": "2017-09-01",
     "license": "GPL-2.0",
     "authors": [
         {
             "name": "kinerity",
             "email": "kinerity@yahoo.com",
-            "homepage": "http://www.layer-3.org",
+            "homepage": "https://www.layer-3.org",
             "role": "Extension Developer"
         }
     ],
