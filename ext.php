@@ -3,7 +3,7 @@
  *
  * Confirm Email. An extension for the phpBB Forum Software package.
  *
- * @copyright (c) 2017, kinerity, http://www.layer-3.org
+ * @copyright (c) 2017, kinerity, https://www.layer-3.org/
  * @license GNU General Public License, version 2 (GPL-2.0)
  *
  */

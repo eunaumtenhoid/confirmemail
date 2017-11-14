@@ -1,6 +1,6 @@
 services:
     kinerity.confirmemail.listener:
-        class: kinerity\confirmemail\event\listener
+        class: kinerity\confirmemail\event\main_listener
         arguments:
             - '@language'
             - '@request'
