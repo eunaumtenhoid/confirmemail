@@ -19,6 +19,6 @@ if (empty($lang) || !is_array($lang))
 }
 
 $lang = array_merge($lang, array(
-	'CONFIRM_EMAIL'			=> 'Confirme o endereço de e-mail',
+	'CONFIRM_EMAIL'			=> 'Confirmar endereço de e-mail',
 	'CONFIRM_EMAIL_ERROR'	=> 'Os endereços de e-mail que você digitou não correspondem.',
 ));
